@@ -1,3 +1,3 @@
 # Projeto-android
-Projeto-android do curso em vídeo
+Projeto-android:
 https://pedrohanrry.github.io/Projeto-android/
